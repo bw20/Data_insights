@@ -1,2 +1,3 @@
-# Data_insights
-Finding and visualising stories with data
+# Data Analysis & Visualisation Portfolio
+
+This portfolio is intended to showcase 
